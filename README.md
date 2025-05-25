@@ -1,4 +1,4 @@
-## ABOUT TOOL :
+### ABOUT TOOL :
 
  Otp Lock is a python based script which is officially made for termux users and from this tool you can spread whatsApp otp lock by just sending number. This tool works on both rooted Android device and Non-rooted Android device.
 Warning 🚦 This Tool Formates (WhatsApp Otp Lock) So think and Use.
